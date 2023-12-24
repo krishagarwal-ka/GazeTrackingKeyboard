@@ -5,11 +5,11 @@ https://github.com/krishagarwal-ka/GazeTrackingKeyboard
      •  Run 'pip install opencv-python gaze-tracking pyautogui'
      •  Download 'Gaze Tracking.py'
      •  Enable Accesibilty Keyboard from your device setting and position it suitably on your screen.
-     •  
+     •  Run 'Gaze Tracking.py'
 
 [2]  Using the program:
-     •  
-     •  
-     •  
-     •  
+     •  If you get a 'Not Detected' message, reposition yourself in front of the camera until the output changes to 'Centre Centre'
+     •  Look around in different directions to move the cursor in that direction.
+     •  Blink to left-click
+     •  Blink twice (in succession) to right-click
      •  
