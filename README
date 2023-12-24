@@ -3,8 +3,8 @@ https://github.com/krishagarwal-ka/GazeTrackingKeyboard
 
 [1]  Setting Up:
      •  Run 'pip install opencv-python gaze-tracking pyautogui'
-     •  
-     •  
+     •  Download 'Gaze Tracking.py'
+     •  Enable Accesibilty Keyboard from your device setting and position it suitably on your screen.
      •  
 
 [2]  Using the program:
