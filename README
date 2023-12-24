@@ -12,4 +12,16 @@ https://github.com/krishagarwal-ka/GazeTrackingKeyboard
      •  Look around in different directions to move the cursor in that direction.
      •  Blink to left-click
      •  Blink twice (in succession) to right-click
-     •  
+     •  You can use the On-screen Keyboard (Accessibility Keyboard) to type.
+     •  Press escape if you wish to stop the program.
+
+[3] Important Information:
+     •  Disclaimer: This was an experimental project but it would be phenomenal if it can actually help someone. It has been rigorously tested and works well.
+     •  It is highly recommended to use a high resolution camera for a more reliably experience.
+     •  It is recommended to maintain adequate (but not too sharp) lighting conditions.
+     •  It is essential to avoid having mutiple faces in the frame to ensure proper functioning.
+     •  Note: It can be strenuous to use the program for long periods of time and it may take a while to get used to the movements.
+
+Author : Krish Agarwal
+https://github.com/krishagarwal-ka
+December 2023
